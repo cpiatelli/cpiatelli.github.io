@@ -1,0 +1,36 @@
+body {
+  background: url(assets/background.jpg) no-repeat #525a6a;
+  background-size: cover;
+  color: #fff;
+  font-family: helvetica;
+  font-size: 25px;
+  font-weight: lighter;
+}
+div { 
+  background: url(assets/stripes.png) repeat-x;
+  height: 13px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+section {
+  margin: 320px 0 0 100px;
+}
+hr {
+  width: 45px;
+  margin: 20px 0 0 0;
+  border-color: #fff;
+}
+p {
+  margin: 20px 0;
+}
+a {
+  margin-top: 10px;
+}
+/*input[type="submit"] {
+  border: 0;
+  background: url(assets/btn_store.png);
+  width: 246px;
+  height: 74px;
+}*/

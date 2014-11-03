@@ -5,5 +5,8 @@
 
 	<body>
 		<img src="Unit3ProjectAssets/background.jpg">
+		<img src="Unit3ProjectAssets/btn_store.png">
+		<img src="Unit3ProjectAssets/logo-taasky.png">
+		<img src="Unit3ProjectAssets/stripes.png">
 	</body>
 </html>

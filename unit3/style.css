@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
-  background: url(Unit3ProjectAssets/assets/background.jpg) no-repeat #525a6a;
+  background: url(Unit3ProjectAssets/Assets/background.jpg) no-repeat #525a6a;
   background-size: cover;
   color: #fff;
   font-family: helvetica;
@@ -8,7 +8,7 @@ body {
   font-weight: lighter;
 }
 div { 
-  background: url(Unit3ProjectAssets/assets/stripes.png) repeat-x;
+  background: url(Unit3ProjectAssets/Assets/stripes.png) repeat-x;
   height: 13px;
   width: 100%;
   position: absolute;
@@ -31,7 +31,7 @@ a {
 }
 /*input[type="submit"] {
   border: 0;
-  background: url(Unit3ProjectAssets/assets/btn_store.png);
+  background: url(Unit3ProjectAssets/Assets/btn_store.png);
   width: 246px;
   height: 74px;
 }*/
